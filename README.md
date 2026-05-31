@@ -4,7 +4,7 @@
 
 CostPilot is an open-source, self-hosted platform for **LLM cost tracking and observability**. Drop the lightweight Python SDK into your app and every call to OpenAI, Anthropic, Google, or DeepSeek is automatically tracked. You get real-time spend dashboards, per-model and per-feature cost breakdowns, budget alerts, cost forecasting, and optimization recommendations — without sending your data to a third party.
 
-If you've ever asked *"how much are we actually spending on GPT-4o this month?"* or *"which feature is burning our token budget?"*, this is for you.
+If you've ever asked *"how much are we actually spending on GPT-5.5 this month?"* or *"which feature is burning our token budget?"*, this is for you.
 
 ![CostPilot dashboard — LLM cost analytics with cost-over-time chart, model and feature breakdowns, forecasting, and optimization recommendations](docs/images/dashboard.png)
 
